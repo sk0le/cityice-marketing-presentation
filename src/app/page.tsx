@@ -110,10 +110,13 @@ export default function Home() {
               ne održava. Brza, prilagođena mobitelu i konačno u bojama
               kutijice.
             </p>
+            <a className="dl-btn live-btn" href="https://cityice-inky.vercel.app" target="_blank" rel="noopener noreferrer">
+              Pogledaj stranicu uživo →
+            </a>
           </div>
           <div className="site-show">
             <div className="browser">
-              <div className="browser-bar"><i /><i /><i /><span className="url">novi sajt · uskoro na cityice.ba</span></div>
+              <div className="browser-bar"><i /><i /><i /><span className="url">cityice-inky.vercel.app · uskoro na cityice.ba</span></div>
               <img src="/img/hero-desktop.webp" alt="Hero sekcija nove CityIce stranice" />
             </div>
             <div className="phone">
@@ -124,8 +127,11 @@ export default function Home() {
             <b>Napomena:</b> stranica je završena i spremna za objavu, ali još
             nije prebačena na cityice.ba jer vlasnik trenutno nije u
             mogućnosti izvršiti prebacivanje domene. Do tada radi na
-            privremenom linku, a zamjena je stvar jednog klika kad se steknu
-            uslovi.
+            privremenom linku{" "}
+            <a href="https://cityice-inky.vercel.app" target="_blank" rel="noopener noreferrer">
+              cityice-inky.vercel.app
+            </a>
+            , a zamjena je stvar jednog klika kad se steknu uslovi.
           </p>
           <div className="shots2">
             <figure>

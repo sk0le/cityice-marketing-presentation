@@ -200,3 +200,6 @@ section.pt-tighter { padding-top: 8px; }
   display: flex; align-items: center; justify-content: center; cursor: pointer;
 }
 .lightbox-close:hover { background: var(--magenta); }
+
+.live-btn { margin-top: 18px; }
+.domain-note a { color: #a3125a; font-weight: 800; }
