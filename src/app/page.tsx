@@ -87,11 +87,12 @@ export default function Home() {
             <div>
               <h3>Zašto baš tri aktivnosti?</h3>
               <p>
-                Projekat mora biti završen u toku semestra, prije novogodišnje
-                sezone, i sve radi jedna osoba. Zato je obim svjesno sužen na
-                tri stvari s najvećim efektom: bolje tri završene do kraja,
-                nego deset započetih. Plaćene kampanje, vođenje mreža i e-mail
-                marketing ostavljeni su za buduću saradnju.
+                Cijeli projekat je morao biti završen do kraja augusta,
+                prije septembarskog roka, i sve radi jedna osoba. Zato je obim
+                svjesno sužen na tri stvari s najvećim efektom: bolje tri
+                završene do kraja, nego deset započetih. Plaćene kampanje,
+                vođenje mreža i e-mail marketing ostavljeni su za buduću
+                saradnju.
               </p>
             </div>
           </div>
