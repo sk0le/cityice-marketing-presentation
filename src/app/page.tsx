@@ -32,7 +32,7 @@ export default function Home() {
             novogodišnje sezone.
           </p>
           <p className="byline">Istražio, dizajnirao i izradio: <b>Amel Islamović</b></p>
-          <p className="byline uni">Fakultet informacijskih tehnologija · Univerzitet „Džemal Bijedić“ u Mostaru · prof. Vedad Ovčina</p>
+          <p className="byline uni">Fakultet informacijskih tehnologija · Univerzitet „Džemal Bijedić“ u Mostaru · prof. Veldin Ovčina</p>
           <nav className="chips">
             <a className="chip" href="#stranica"><span className="n">1</span> Nova web stranica</a>
             <a className="chip" href="#vizuali"><span className="n">2</span> 6 novogodišnjih vizuala</a>
@@ -297,7 +297,7 @@ export default function Home() {
           </div>
           <div className="credit">
             <span className="wordmark">city<span className="i">i</span>ce</span>
-            Predmet „Uvod u marketing“, prof. Vedad Ovčina · FIT, Univerzitet „Džemal Bijedić“ u Mostaru<br />pripremio Amel Islamović · august 2026.
+            Predmet „Uvod u marketing“, prof. Veldin Ovčina · FIT, Univerzitet „Džemal Bijedić“ u Mostaru<br />pripremio Amel Islamović · august 2026.
           </div>
         </div>
       </footer>

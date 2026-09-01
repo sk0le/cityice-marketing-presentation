@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   title: "CityIce projekat",
   authors: [{ name: "Amel Islamović" }],
   description:
-    "Projekat iz predmeta „Uvod u marketing“ (prof. Vedad Ovčina, FIT, Univerzitet „Džemal Bijedić“ u Mostaru): nova web stranica, novogodišnja kampanja i Google Business Profil za CityIce.",
+    "Projekat iz predmeta „Uvod u marketing“ (prof. Veldin Ovčina, FIT, Univerzitet „Džemal Bijedić“ u Mostaru): nova web stranica, novogodišnja kampanja i Google Business Profil za CityIce.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
