@@ -283,6 +283,26 @@ export default function Home() {
               ))}
             </div>
           </div>
+
+          <div className="doc-block">
+            <div className="doc-head">
+              <h3>Vodič za Google Business Profil</h3>
+              <span className="meta">4 stranice · korak po korak, s gotovim tekstovima</span>
+              <span className="spacer" />
+              <a className="dl-btn" href="/docs/CityIce-Google-Business-Profil-vodic.docx" download>Preuzmi .docx</a>
+              <a className="dl-btn alt" href="/docs/CityIce-Google-Business-Profil-vodic.pdf" download>PDF</a>
+            </div>
+            <div className="strip tall">
+              {Array.from({ length: 4 }, (_, i) => (
+                <img
+                  key={i}
+                  src={`/img/gbp/str-${String(i + 1).padStart(2, "0")}.webp`}
+                  alt={`Stranica ${i + 1} vodiča za Google Business Profil`}
+                  loading="lazy"
+                />
+              ))}
+            </div>
+          </div>
         </div>
       </section>
 
